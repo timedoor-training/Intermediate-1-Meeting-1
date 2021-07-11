@@ -5,7 +5,7 @@ Pertemuan 1 mempelajari html dasar, hubungan antara html,css,js. Kita juga mengi
 
 >https://timedoor-change-the-color.netlify.app/
 
-Link Video
+### Link Video
 >Hello, World! Award Winning Short Film (Shot on GH4)
 >>https://www.youtube.com/watch?v=egQH4vM1q1A
 
